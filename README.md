@@ -23,7 +23,7 @@
     <td>6</td><td>xxx</td><td>-</td><td>-</td><td>-</td><td>-</td>
   </tr>
    <tr>
-    <td>7</td><td><a href='https://github.com/ '>Nadha Logistic</a></td><td>On development</td><td>-</td><td>-</td><td>-</td>
+    <td>7</td><td><a href='https://github.com/ '>xx</a></td><td>On development</td><td>-</td><td>-</td><td>-</td>
   </tr>
    <tr>
     <td>8</td><td>xxx</td><td>-</td><td>-</td><td>-</td><td>-</td>
